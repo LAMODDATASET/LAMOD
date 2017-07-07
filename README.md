@@ -19,7 +19,7 @@ In the first batch, annotations for 14 sequences are released.
 ## Contributions
 If you find any mistakes in the labels, please report them in the GitHub issues section.
 
-If you want to contribute via adding labels for new sequences, we suggest you to do so for publicly available dataset sequences (i.e. UAV Tracking Benchmark).
+If you want to contribute via adding labels for new sequences, we suggest you to do so for publicly available dataset sequences (i.e. UAV123 Dataset).
 
 ## Citing LAMOD Dataset
 *TBD*
