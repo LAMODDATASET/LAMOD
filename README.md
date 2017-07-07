@@ -13,7 +13,7 @@ In the first batch, annotations for 14 sequences are released.
 
 | VIVID Sequences  | UAV123 Sequences |
 | ------------- | ------------- |
-| egtest01, egtest02, egtest03, egtest04, egtest05, redteam| car1, car2, car3, car4, car6, car8, car10|
+| egtest01, egtest02, egtest03, egtest04, egtest05, redteam| car1, car2, car3, car4, car6, car8, car10, person12|
 
 
 ## Contributions
