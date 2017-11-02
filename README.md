@@ -22,4 +22,12 @@ If you find any mistakes in the labels, please report them in the GitHub issues 
 If you want to contribute via adding labels for new sequences, we suggest you to do so for publicly available dataset sequences (i.e. UAV123 Dataset).
 
 ## Citing LAMOD Dataset
-*TBD*
+```shell
+@InProceedings{Logoglu_2017_ICCV,
+author = {Berker Logoglu, K. and Lezki, Hazal and Kerim Yucel, M. and Ozturk, Ahu and Kucukkomurler, Alper and Karagoz, Batuhan and Erdem, Erkut and Erdem, Aykut},
+title = {Feature-Based Efficient Moving Object Detection for Low-Altitude Aerial Platforms},
+booktitle = {The IEEE International Conference on Computer Vision (ICCV)},
+month = {Oct},
+year = {2017}
+}
+```
