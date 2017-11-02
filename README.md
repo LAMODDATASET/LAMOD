@@ -26,7 +26,7 @@ If you want to contribute via adding labels for new sequences, we suggest you to
 @InProceedings{Logoglu_2017_ICCV,
 author = {Berker Logoglu, K. and Lezki, Hazal and Kerim Yucel, M. and Ozturk, Ahu and Kucukkomurler, Alper and Karagoz, Batuhan and Erdem, Erkut and Erdem, Aykut},
 title = {Feature-Based Efficient Moving Object Detection for Low-Altitude Aerial Platforms},
-booktitle = {The IEEE International Conference on Computer Vision (ICCV)},
+booktitle = {The IEEE International Conference on Computer Vision (ICCV) Workshops},
 month = {Oct},
 year = {2017}
 }
